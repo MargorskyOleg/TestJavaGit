@@ -5,5 +5,10 @@ public class main {
 
     }
     private static void uir(){
+
+    }
+
+    private static void uir2(){
+
     }
 }
