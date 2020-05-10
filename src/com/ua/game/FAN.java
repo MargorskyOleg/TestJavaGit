@@ -1,4 +1,4 @@
 package com.ua.game;
 
-public class Coll {
+public class FAN {
 }
