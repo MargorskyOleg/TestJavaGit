@@ -2,6 +2,11 @@ package com.ua.game;
 
 public class main {
     public static void main(String[] args) {
-//5
+
+
+    }
+
+    private static void pv(){
+
     }
 }
