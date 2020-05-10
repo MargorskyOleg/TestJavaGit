@@ -8,7 +8,7 @@ public class main {
 
     }
 
-    private static void uir2(){
+    private static void uir22(){
 
     }
 }
