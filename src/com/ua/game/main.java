@@ -1,17 +1,11 @@
 package com.ua.game;
 
 public class main {
-    
     public static void main(String[] args) {
-        uir();
+//2
+//3
+//4
+//5
+//6
     }
-    
-    private static void uir(){
-        uir22();
-    }
-
-    private static void uir22(){
-
-    }
-//////
 }
