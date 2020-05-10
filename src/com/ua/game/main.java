@@ -4,6 +4,6 @@ public class main {
     public static void main(String[] args) {
 
     }
-    private static void ui(){
+    private static void uir(){
     }
 }
